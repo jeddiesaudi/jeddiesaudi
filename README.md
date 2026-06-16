@@ -73,15 +73,6 @@ Streaming chat interface built for real products — not a demo. Full conversati
 
 ---
 
-### [ai-form-architect](https://github.com/jeddiesaudi/ai-form-architect) — `Natural Language → UI`
-Describe a form in plain English. Get a fully functional React component back in real-time. Uses structured LLM outputs with JSON schema validation.
-
-`LLM Structured Output` `JSON Schema` `React` `TypeScript`
-
-> *Demonstrates: structured AI outputs, runtime code generation, schema validation, practical AI application design*
-
----
-
 ## Currently Building
 
 - Exploring AI-native SaaS products for Southeast Asian markets  
