@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=5000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=AI+Product+Engineer;Building+AI+apps+that+actually+ship;React+%2B+TypeScript+%2B+LLMs+%2B+Computer+Vision" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=5000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=AI+Product+Engineer;Building+AI+apps+that+actually+ship;+React+%2B+TypeScript+%2B+LLMs+%2B+Computer+Vision+" alt="Typing SVG" />
 
 <br/>
 
