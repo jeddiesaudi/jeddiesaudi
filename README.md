@@ -5,7 +5,7 @@
 <br/>
 
 **I build AI-powered products end-to-end** — from browser-native ML inference to LLM-powered features to shipped products.  
-Open to remote contracts. Based in Indonesia (UTC+7) · Fluent in English.
+Open to remote contracts. Based in Indonesia (UTC+7).
 
 <br/>
 
